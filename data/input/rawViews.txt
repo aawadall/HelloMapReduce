@@ -1,0 +1,6 @@
+1   Entity1 Entity2
+2   Entity1 Entity3
+3   Entity2 Entity3
+4   Entity4 Entity1
+5   Entity5 Entity1
+6   Entity5 Entity3
